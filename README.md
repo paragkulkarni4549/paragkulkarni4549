@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragkulkarni4549&label=Profile%20views&color=0e75b6&style=flat" alt="paragkulkarni4549" /> </p>
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 I’m DevOps Engineer.
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ kulkarniparag4549](www.linkedin.com/in/ kulkarniparag4549)
 
